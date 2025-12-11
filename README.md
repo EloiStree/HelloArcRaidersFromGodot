@@ -4,8 +4,8 @@ Learn how to code from Zero to Junior developer by playing at Arc Raider from Go
 (If you plan to sell item outside of the game or harms player experience here, go way.) 
 
 
-⚠️ Use any third party in most of the game is consider cheating and can lead to a ban ⚠️
-⚠️ I am not responsible of your ban when it is going to happen ( -> not if but when )⚠️
+⚠️ Use any third party in most of the game is consider cheating and can lead to a ban ⚠️  
+⚠️ I am not responsible of your ban when it is going to happen ( -> not if but when )⚠️  
 
 You will need:
 - an ESP32S3 to simulate joysticks

@@ -10,8 +10,14 @@ https://youtu.be/36kPuZe7414?t=17
 - Recyle in the game to lost some weight https://youtu.be/yH1AEXlZNxQ?t=286
 - You can kill camera and tourelle with axis to avoid sound https://youtu.be/yH1AEXlZNxQ?t=343
 - Upgrade wrost it https://youtu.be/yH1AEXlZNxQ?t=407
-
-
+  - Upgrade your gun https://youtu.be/yH1AEXlZNxQ?t=405
+- Stamina when sliding https://youtu.be/yH1AEXlZNxQ?t=437
+- Switch weapons is faster that reloading https://youtu.be/yH1AEXlZNxQ?t=465
+- Be friendly is a talent https://youtu.be/yH1AEXlZNxQ?t=555
+- Ping the enemy to know the name : https://youtu.be/yH1AEXlZNxQ?t=659
+- Make some sound to move enemy : https://youtu.be/yH1AEXlZNxQ?t=688
+  - Use Drone call; https://youtu.be/yH1AEXlZNxQ?t=714
+-  
 
 Personnal Note:
 - Smoke can hide you enough for the drone to be lost

@@ -17,3 +17,11 @@
 - Make some sound to move enemy : https://youtu.be/yH1AEXlZNxQ?t=688
   - Use Drone call; https://youtu.be/yH1AEXlZNxQ?t=714
 -  
+
+
+-------------
+
+
+- Slide building wall and mine https://youtu.be/36kPuZe7414?t=97
+- Slide rolling: https://youtu.be/36kPuZe7414?t=106
+- 

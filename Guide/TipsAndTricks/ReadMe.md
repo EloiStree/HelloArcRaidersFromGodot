@@ -25,3 +25,5 @@
 - Slide building wall and mine https://youtu.be/36kPuZe7414?t=97
 - Slide rolling: https://youtu.be/36kPuZe7414?t=106
 - 
+
+- You can use fabric as 25 seconds stamina buff: https://www.youtube.com/shorts/gHQQHi6Hs9I?t=2&feature=share

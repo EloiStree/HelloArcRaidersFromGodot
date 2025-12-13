@@ -27,3 +27,21 @@
 - 
 
 - You can use fabric as 25 seconds stamina buff: https://www.youtube.com/shorts/gHQQHi6Hs9I?t=2&feature=share
+
+-----------
+
+- Be aware of spawn point: https://youtu.be/yFO6gyuYnrI?t=46
+- Adrenaline shot are not useless: https://youtu.be/yFO6gyuYnrI?t=118
+- Two players at the same time make them fall https://youtu.be/yFO6gyuYnrI?t=151
+- Sprint jump up on the zipline https://youtu.be/yFO6gyuYnrI?t=174
+  - Looking give the direction
+- You can change direction on zipline https://youtu.be/yFO6gyuYnrI?t=253
+- Slide Roll https://youtu.be/yFO6gyuYnrI?t=297
+  - SlidePeak https://youtu.be/yFO6gyuYnrI?t=331
+- Big loot means:
+  - Fear of losing = Stop learning https://youtu.be/yFO6gyuYnrI?t=388
+  -  Turn your game to a fear base decision https://youtu.be/yFO6gyuYnrI?t=404
+- Use Free loadout to learn https://youtu.be/yFO6gyuYnrI?t=461
+
+- -------------
+- I AM HERE : https://youtu.be/yFO6gyuYnrI?t=478

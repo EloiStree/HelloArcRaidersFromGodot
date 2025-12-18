@@ -14,3 +14,10 @@ Some ARC and some plastics part
 
 Some electical component and magnet
 
+
+
+If you want a bit more protection
+<img width="1063" height="503" alt="image" src="https://github.com/user-attachments/assets/7151d129-17f9-4e1a-80c9-51dc007459e7" />
+
+Some batteries and arc circuit
+( not that you can stack arc and create the circuit.)

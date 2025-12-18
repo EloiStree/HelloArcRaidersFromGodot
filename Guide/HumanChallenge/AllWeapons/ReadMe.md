@@ -21,3 +21,7 @@ If you want a bit more protection
 
 Some batteries and arc circuit
 ( not that you can stack arc and create the circuit.)
+
+
+If you want to be the good guy, you can take some surige..
+

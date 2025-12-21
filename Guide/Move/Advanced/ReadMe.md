@@ -7,3 +7,7 @@ https://youtu.be/36kPuZe7414?t=343
 - Turn off smoothness aim https://youtu.be/36kPuZe7414?t=289
 - Forever sprint slinding https://youtu.be/36kPuZe7414?t=328
 - Move with barricade https://youtu.be/36kPuZe7414?t=346
+
+
+
+Move and fire: https://youtu.be/axteXFDJ-OU?t=72

@@ -8,3 +8,5 @@ And try any action in the game to check if it make some dommage on an other acco
 Also record any game where the dommage changed. with replay OBS.  
 
 <img width="1363" height="768" alt="image" src="https://github.com/user-attachments/assets/65871cb2-0a37-4df9-adee-a745d84e3c78" />
+
+Current: 49
